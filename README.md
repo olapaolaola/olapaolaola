@@ -1,7 +1,10 @@
 ## 👋 Oi! Seja bem-vindo ao meu perfil 
 - 🎓 Estudante de Desenvolvimento de Sistemas  
-- 🚶‍➡️ Começando minha jornada no mundo da programação por meio de Python!
-- 📧Contato: paoladorisse@gmail.com
+- 🚶‍➡️ Começando minha jornada no mundo da programação!
+- 📧 Contato: paoladorisse@gmail.com
+
+## Linguagens
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 ## Onde me encontrar 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paola-ramos-) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paoladorisse@gmail.com)
