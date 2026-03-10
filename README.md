@@ -1,4 +1,4 @@
-## oi!
+## Oi! Seja bem-vindo ao meu perfil
 Sou estudante de Desenvolvimento de Sistemas e, no momento, utilizo este perfil como um ambiente de aprendizado
 
 <!--
