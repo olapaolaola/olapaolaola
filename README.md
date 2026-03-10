@@ -1,4 +1,5 @@
-## Hi there 👋
+## oi!
+Sou estudante de Desenvolvimento de Sistemas e, no momento, utilizo este perfil como um ambiente de aprendizado
 
 <!--
 **olapaolaola/olapaolaola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
