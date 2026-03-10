@@ -1,5 +1,6 @@
 ## Oi! Seja bem-vindo ao meu perfil
-Sou estudante de Desenvolvimento de Sistemas e, no momento, utilizo este perfil como um ambiente de aprendizado
+Sou estudante de Desenvolvimento de Sistemas e, no momento, utilizo este perfil como um ambiente de aprendizado. 
+Estou começando minha jornada no mundo da programação por meio de Python e espero poder expandir esse conhecimento para as mais variadas linguagens!
 
 <!--
 **olapaolaola/olapaolaola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
