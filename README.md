@@ -1,6 +1,10 @@
-## Oi! Seja bem-vindo ao meu perfil
-Sou estudante de Desenvolvimento de Sistemas e, no momento, utilizo este perfil como um ambiente de aprendizado. 
-Estou começando minha jornada no mundo da programação por meio de Python e espero poder expandir esse conhecimento para as mais variadas linguagens!
+## 👋 Oi! Seja bem-vindo ao meu perfil 
+- 🎓 Estudante de Desenvolvimento de Sistemas  
+- 🚶‍➡️ Começando minha jornada no mundo da programação por meio de Python!
+- 📧Contato: paoladorisse@gmail.com
+
+## Onde me encontrar 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paola-ramos-) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paoladorisse@gmail.com)
 
 <!--
 **olapaolaola/olapaolaola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
